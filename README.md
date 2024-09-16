@@ -41,6 +41,8 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 | Burlington | HireVue (various assessments for Intern or new college graduate jobs) | DCI Consulting Group | 7/5/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/AI%20audit%20for%20EC.pdf) | [Capture from 4/24/24](https://perma.cc/9BK7-X4UB) |
 | Burlington | HireVue assessment used for Allocation Analyst role | DCI Consulting Group | 11/1/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/NYC%20Audit%20AA.pdf) | [Capture from 4/24/24](https://perma.cc/VL7X-5T5L) |
 | Burlington | HireVue assessment used for Intern role | DCI Consulting Group | 11/1/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/NYC%20Audit%20Intern.pdf) | [Capture from 4/24/24](https://perma.cc/LA9R-UYXP) | |
+| Burlington | HireVue (various assessments for Intern or new college graduate jobs) | DCI Consulting Group | 7/5/2024 | [From NLX](https://seo.nlx.org/burlington/pdf/Burlington%20DCI%20Audit%20Results%20%28002%29.pdf) | [Capture from 9/16/24](https://perma.cc/D4RG-TGGG) |
+
 | Bryq | Bryq Talent Intelligence | Holistic AI | 5/15/2023 | [From CDN](https://framerusercontent.com/assets/VJW6JIM9p7ZG7H3gbRthHc3UFM.pdf) | [Capture from 4/24/24](https://perma.cc/NNR6-9DW3) | |
 | Citizens | HireVue (various assessments) | DCI Consulting Group | 7/5/2023 | [From CitizensBank.com](https://jobs.citizensbank.com/Annual-AI-Bias-Audit) | [Capture from 7/10/24](https://perma.cc/GD69-APXU) | | 
 
